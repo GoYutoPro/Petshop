@@ -1,0 +1,47 @@
+body{
+    background-color: grey
+    }
+    
+        .topnav {
+        background-color: rgb(10, 140, 226);
+        overflow: hidden;
+        height: 40px;
+        width: auto;
+         }
+    
+        .topnav a {
+        float: inline-start;
+        color: black;
+        text-align:center;
+        padding: 30px 25px;
+        text-decoration: none;
+        font-size: 20px;
+         }
+    
+        .topnav a:hover {
+        background-color: pink;
+        color: black;
+         }
+
+        .search {
+            position:absolute;
+            left: 100%;
+            top:25%;
+            width:30%;
+        }
+
+        .button{
+        
+        
+
+
+        /* .center {  
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        border: 3px solid #363629;
+        padding: 20px;
+         }
+     */
+    
